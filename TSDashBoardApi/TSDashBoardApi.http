@@ -1,0 +1,6 @@
+@TSDashBoardApi_HostAddress = http://localhost:5096
+
+GET {{TSDashBoardApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
